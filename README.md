@@ -12,9 +12,3 @@
         * Mysql
         * Maven
         * Lombok
-    2. Frontend
-        * Angular 10
-        * HTML
-        * CSS
-        * Bootstrap
-        * Typescript
